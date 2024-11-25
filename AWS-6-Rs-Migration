@@ -1,0 +1,13 @@
+# Os 6 Rs de migração para a nuvem AWS são:
+
+1.Rehosting(Rehospedagem): Migrar aplicações para a nuvem sem mudanças.
+
+2.Replatforming(Replataforma): Fazer pequenas otimizações na aplicação durante a migração.
+
+3.Repurchasing(Recompra): Substituir a aplicação por um serviço SaaS na nuvem.
+
+4.Refactoring(Refatoração): Reformular a aplicação para aproveitar melhor os recursos da nuvem.
+
+5.Retire(Desativação): Desativar aplicações desnecessárias.
+
+6.Retain(Retenção): Manter algumas aplicações no local (on-premises).
